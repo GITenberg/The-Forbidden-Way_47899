@@ -1,4 +1,8 @@
 _repo: The-Forbidden-Way_47899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47899-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Gibbs, George
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '4037'
     url: http://www.gutenberg.org/2009/agents/4037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47899#The-Forbidden-Way
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
 identifiers:
